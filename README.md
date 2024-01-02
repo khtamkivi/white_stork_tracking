@@ -1,2 +1,11 @@
 # white_stork_tracking
+
+![alt text](https://birdlifecyprus.org/wp-content/uploads/sites/3/elementor/thumbs/White-Stork-by-Dave-Walker-August-2020-7_450_850_crp-ovu9g9bohcioki2t8469h1i3puev7fgxtztj75yn80.jpg)
+
 This repository holds data and notebooks about a data science project done on white stork tracking data from 1991-2017. The data originates from Movebank repository: https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study7431347
+
+The GPS tracking data is complemented with average annual land surface temperature data from Berkeley Earth: https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Complete_TAVG_complete.txt
+
+The notebooks aim to answer a seemingly simple question - has the global land surface temperature rise and climate warming had an effect on white stork migration behaviour over the years?
+
+This question requires extensice tracking data cleaning, migration period labelling, migration behaviour statistics, migration path clustering and in the end a rather short correlation analysis. The repository also holds a dashboard that allows the user to visualise the individuals' migration paths.
