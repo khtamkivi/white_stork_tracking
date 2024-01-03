@@ -8,4 +8,4 @@ The GPS tracking data is complemented with average annual land surface temperatu
 
 The notebooks aim to answer a seemingly simple question - has the global land surface temperature rise and climate warming had an effect on white stork migration behaviour over the years?
 
-This question requires extensice tracking data cleaning, migration period labelling, migration behaviour statistics, migration path clustering and in the end a rather short correlation analysis. The repository also holds a dashboard that allows the user to visualise the individuals' migration paths.
+This question requires extensive tracking data cleaning, migration period labelling, migration behaviour statistics, migration path clustering and in the end a rather short correlation analysis. The repository also holds a dashboard.py file that allows the user to visualise the migration paths of different individuals.
