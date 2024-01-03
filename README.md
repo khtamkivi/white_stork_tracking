@@ -1,6 +1,6 @@
 # white_stork_tracking
 
-![alt text](https://birdlifecyprus.org/wp-content/uploads/sites/3/elementor/thumbs/White-Stork-by-Dave-Walker-August-2020-7_450_850_crp-ovu9g9bohcioki2t8469h1i3puev7fgxtztj75yn80.jpg)
+![alt text](https://flightforsurvival.org/wp-content/uploads/2020/09/White-Stork-cDave-Walker_Birdlife-Cyprus_August-2020-scaled.jpg)
 
 This repository holds data and notebooks about a data science project done on white stork tracking data from 1991-2017. The data originates from Movebank repository: https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study7431347
 
