@@ -2,7 +2,7 @@
 
 ![alt text](https://flightforsurvival.org/wp-content/uploads/2020/09/White-Stork-cDave-Walker_Birdlife-Cyprus_August-2020-scaled.jpg)
 
-This repository holds data and notebooks about a data science project done on white stork tracking data from 1991-2017. The data originates from Movebank repository: https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study7431347
+This repository holds data and notebooks about a data science project done on white stork tracking data from 1991-2017. The data originates from a Movebank repository: https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study7431347
 
 The GPS tracking data is complemented with average annual land surface temperature data from Berkeley Earth: https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Complete_TAVG_complete.txt
 
