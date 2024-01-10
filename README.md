@@ -10,10 +10,18 @@ The notebooks aim to answer a seemingly simple question - has the global land su
 
 Answering this question requires extensive tracking data cleaning, migration period labelling, migration behaviour statistics, migration path clustering and in the end a rather short correlation analysis. The repository also holds a dashboard.py file that allows the user to visualise the migration paths of different individuals.
 
-In order to run all of the files without any additional package installations or version conflicts, run the command:
+In order to run all of the files without any additional package installations or version conflicts, run the following command in your terminal (while being in the git directory):
 
 conda env create -f environment.yml
 
-in your terminal and activate it with:
+and activate it with:
 
 conda activate storks
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
