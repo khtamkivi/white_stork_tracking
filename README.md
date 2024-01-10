@@ -12,16 +12,12 @@ Answering this question requires extensive tracking data cleaning, migration per
 
 In order to run all of the files without any additional package installations or version conflicts, run the following command in your terminal (while being in the git directory):
 
+```
 conda env create -f environment.yml
+```
 
 and activate it with:
 
-conda activate storks
-
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+conda activate storks_env
 ```
