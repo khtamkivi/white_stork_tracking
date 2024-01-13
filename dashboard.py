@@ -8,7 +8,7 @@ import numpy as np
 
 color_discrete_sequence = px.colors.qualitative.Set1
 
-df = pd.read_csv('migration_mq.csv') #Medium quality data
+df = pd.read_csv('data/migration_mq.csv') #Medium quality data
 df['timestamp'] = pd.to_datetime(df['timestamp'])
 df['year'] = df['timestamp'].dt.year
 
