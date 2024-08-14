@@ -6,7 +6,7 @@ This repository holds data and notebooks about a data science project done on wh
 
 The GPS tracking data is complemented with average annual land surface temperature data from Berkeley Earth: https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Complete_TAVG_complete.txt
 
-The notebooks aim to answer a seemingly simple question - has the global land surface temperature rise and climate warming had an effect on white stork migration behaviour over the years?
+The notebook aims to answer a seemingly simple question - has the global land surface temperature rise and climate warming had an effect on white stork migration behaviour over the years?
 
 Answering this question requires extensive tracking data cleaning, migration period labelling, migration behaviour statistics, migration path clustering and in the end a rather short correlation analysis. The repository also holds a dashboard.py file that allows the user to visualise the migration paths of different individuals.
 
